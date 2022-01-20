@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAA;EACA,SAAS,EAAE,IAAI;CAClB;;AAED,AAAA,IAAI,CAAA;EACA,MAAM,EAAE,CAAC;EACT,gBAAgB,EAAE,OAAO;CAC5B",
+    "sources": [
+        "stylis.scss"
+    ],
+    "names": [],
+    "file": "stylis.css"
+}
